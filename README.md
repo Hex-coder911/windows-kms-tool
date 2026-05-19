@@ -86,4 +86,4 @@ This repository is distributed under the open MIT License. Check the accompanyin
 
 ---
 
-👨‍💻 Engineered with passion by *[Your GitHub Username / Hex]* 🛠️
+👨‍💻 Engineered with passion by *[Hex]* 🛠️
